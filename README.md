@@ -1,5 +1,4 @@
-Este notebook tem como objetivo analisar o orçamento médio dos filmes agrupados por idioma original, utilizando o conjunto de dados `tmdb_5000_movies.csv` (The Movie Database).
-
+Este notebook tem como objetivo analisar dataset de filme.
 As principais etapas abordadas incluem:
 
 - Importação e preparação dos dados;
